@@ -9,6 +9,8 @@ worker.start();
 
 const rootElement = document.getElementById("root");
 
+const myName = 'Tony'
+
 ReactDOM.render(
     <App />, 
     rootElement
